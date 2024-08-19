@@ -13,7 +13,7 @@ Identify and describe at least three key milestones in the evolution of software
 *Technical debts:shortcuts,suboptimal solutions can impede future projects and lead to high cost of projects.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+*Planning:This is the initial phase where the projects goals,purpose, scope and feasibility is discussed.*Requirements analysis:in this phase,specific requirements for the project are gathered from stakeholders  *Design:this involves the creation of the Softwares architecture  *implementation:During this phase,the actual source code is written based on the design specifications  *Testing: after implementation, the software is tested to find and fix bugs or issues  *Deployment:once it passes the test, the software is deployed for emd users to make use of *Maintenance:This involves fixing issues that arise and adding features as needed by stakeholders  
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
